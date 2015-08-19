@@ -1,4 +1,5 @@
-function G = interp_from_surface_to_grid(surface_rh, surface_lh, patch_rh, patch_lh, roi_rh_label, roi_lh_label, grid_spacing_mm, plot_figures)
+function G = interp_from_surface_to_grid(surface_rh, surface_lh, patch_rh, ...
+    patch_lh, roi_rh_label, roi_lh_label, grid_spacing_mm, plot_figures)
 % function interp_from_surface_to_grid(surface_rh, surface_lh, patch_rh, patch_lh, roi_rh_label, roi_lh_label, grid_spacing_mm, plot_figures)
 %
 % Interpolates a set of surface points to a 2-D grid, using a flattened surface patch
