@@ -1,13 +1,3 @@
-## Matlab temp files
-*.m~
-*.auv
-
-## Matlab data files
-*.mat
-
-## Zipped drives
-*.zip
-
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
